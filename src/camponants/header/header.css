@@ -1,0 +1,14 @@
+.a{
+      text-decoration: none;
+      color: aliceblue;
+}
+
+.connect-btn{
+      border-radius: 1rem;
+      color: rgb(10, 88, 202);
+      border: none;
+}
+.connect-btn:hover{
+      color: white;
+      background-color: rgb(10, 88, 202) ;
+}
